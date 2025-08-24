@@ -31,4 +31,4 @@ The primary reason for uploading the datasets on Kaggle instead of direct upload
 - **Raw datasets** are untouched original CSVs.  
 - **SQL export** is the merged dataset via SQL joins.  
 - **Python exports** are processed datasets created through data cleaning, filtering, aggregation, and feature engineering.
-- **A short description of each has been provided on Kaggle to get a better understanding of the role of each dataset.
+- A short description of each has been provided on Kaggle to get a better understanding of the role of each dataset.
