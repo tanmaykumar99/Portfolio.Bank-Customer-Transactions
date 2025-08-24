@@ -89,6 +89,7 @@ All required Python libraries are listed in the `requirements.txt` file. Install
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### Setup & Execution
 1.  **Database:** Ensure you have a running SQL server with the `customer_details` and `transaction_details` tables. Update the database credentials in `Data_Preprocessing.ipynb`.
