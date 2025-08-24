@@ -25,6 +25,7 @@ You can install dependencies with:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## API Key Setup
 
