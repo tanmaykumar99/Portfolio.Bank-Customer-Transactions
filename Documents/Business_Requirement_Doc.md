@@ -32,8 +32,8 @@ The primary goal is to derive actionable insights into customer behaviour, ident
 ### Out-of-Scope  
 - Real-time transaction monitoring and fraud detection.  
 - Implementation of any marketing or risk mitigation strategies.  
-- Analysis of data outside the specified timeframe (**August 1, 2016 – October 21, 2016**).  
-
+- Analysis of data outside the specified timeframe (**August 1, 2016 – October 21, 2016**).
+- Analysis of data between **October 1, 2016 - October 15, 2016** & **October 17, 2016 - October 21, 2016** due to absence of data.
 ---
 
 ## 4. Business Requirements  
