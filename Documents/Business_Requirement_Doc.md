@@ -61,7 +61,7 @@ The primary goal is to derive actionable insights into customer behaviour, ident
 
 ---
 
-## 6. Success Criteria  
+## 5. Success Criteria  
 - Successful segmentation of at least **80%** of the active customer base.  
 - Identification of at least **5 distinct, actionable customer segments**.  
 - A risk model capable of flagging the **top ~5% of anomalous transactions** with a clear justification.  

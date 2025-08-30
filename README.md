@@ -2,12 +2,21 @@
 
 ## 1. Project Overview
 
-This project presents a comprehensive analysis of over 10M+ bank customer transaction data from the third quarter of 2016. It showcases an end-to-end data analytics workflow, from data ingestion and preprocessing to advanced analysis and an interactive dashboard. The primary goal is to translate raw transactional data into strategic business intelligence, focusing on customer segmentation, behavioral patterns, and risk mitigation.
+This project presents a comprehensive analysis of over 1M+ bank customer transaction data from the third quarter of 2016. It showcases an end-to-end data analytics workflow, from data ingestion and preprocessing to advanced analysis and an interactive dashboard. The primary goal is to translate raw transactional data into strategic business intelligence, focusing on customer segmentation, behavioral patterns, and risk mitigation.
+
+## Live Dashboard
+
+(Given below is a 2 minute gif to demonstrate the dynamic elements of the dashboard)
+
+An interactive Power BI dashboard has been developed to allow for dynamic filtering and exploration of the customer and txn data. The dashboard provides a high-level overview of key metrics and allows for granular analysis across different segments.
+
+![Dashboard Preview](Power_BI/images/dashboard.gif)
 
 The analysis is structured into a four-part Python pipeline, and the final insights are presented in an executive-ready Power BI dashboard. This project demonstrates proficiency in data manipulation, statistical analysis, machine learning (unsupervised), and data visualization, all framed within a business-centric context relevant to the financial services industry.
 
 *   **Technologies Used:** SQL, Python (Pandas, Matplotlib, Seaborn, Scikit-learn, optional geocoding), Power BI
 *   **Analytical Concepts:** RFM Segmentation, Isolation Forest
+*   **Version Control:** Git, Github
 *   **Time Frame of Data:** August 1, 2016 – October 21, 2016
 
 ## 2. Business Problem & Objectives
@@ -72,10 +81,6 @@ The findings from the Python analysis were consolidated into an interactive Powe
 3.  **RFM Segmentation & Targeting:** A strategic view for the marketing team to understand and target customer segments.
 4.  **Temporal & Anomaly Analysis:** An operational view focusing on transaction timing and risk.
 5.  **Data Dictionary & Project Info:** A reference page explaining the metrics and project scope.
-
-**(Note: You can embed a GIF or screenshot of your dashboard here for visual appeal)**
-
-`[Link to your public Power BI Dashboard]`
 
 ## 6. How to Run This Project
 
